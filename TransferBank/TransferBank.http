@@ -1,0 +1,6 @@
+@TransferBank_HostAddress = http://localhost:5087
+
+GET {{TransferBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
